@@ -1,2 +1,2 @@
 # Patuke
-Mobile Brawler Game for Google Play
+Mobile Multiplayer Brawler Game for Google Play
